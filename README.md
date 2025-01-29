@@ -1,8 +1,9 @@
 # bus-booking-model
 An application to book a bus between any given two cities.
+
 Requirements:
-	A Transport company has buses to shuttle between any cities.
-	Each Bus shuttles between two cities.
+A Transport company has buses to shuttle between any cities.
+Each Bus shuttles between two cities.
 
 	A customer should be able to search the available buses from the origin city.
 	A Customer can check the availability on a given day.
